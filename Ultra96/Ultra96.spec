@@ -1,0 +1,1 @@
+specs/Ultra96_v2.spec
